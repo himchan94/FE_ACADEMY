@@ -1,0 +1,13 @@
+{
+  "source": "./index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
